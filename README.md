@@ -11,6 +11,7 @@
 -->
 
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
+[![Documentation Status](https://readthedocs.org/projects/ckpttnpy/badge/?version=latest)](https://ckpttnpy.readthedocs.io/en/latest/?badge=latest)
 
 # hello12345
 
